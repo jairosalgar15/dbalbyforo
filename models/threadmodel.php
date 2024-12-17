@@ -192,4 +192,4 @@ class ThreadModel extends Model implements IModel
     {
         $this->userId = $userId;
     }
-}   
+}

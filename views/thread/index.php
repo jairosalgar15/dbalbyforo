@@ -1,6 +1,6 @@
 <?php
-$threads = $This->d['threads'];
-$user = $This->d['user'];
+$threads = $this->d['threads'];
+$user = $this->d['user'];
 ?>
 <!DOCTYPE html>
 <html lang="es">
