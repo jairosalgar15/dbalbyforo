@@ -18,5 +18,3 @@ require_once 'libs/view.php';
 require_once 'classes/sessioncontroller.php';
 
 $app = new App();
-
-?>
